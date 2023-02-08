@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @analeema!
 - 👀 I’m interested in learning, music, English, pop culture... 
-- 🌱 I’m currently learning how to work as a tech writer for Nubank.
-- 💞️ I’m looking forward to collaborating with the TW Chapter and the Operations Platform team.
+- 🌱 I’m currently working as a tech writer for Nubank.
+- 💞️ I’m looking forward to collaborating with the TW Chapter and the CXP team.
 - 📫 How to reach me @slack: ana.lima
 
 <!---
